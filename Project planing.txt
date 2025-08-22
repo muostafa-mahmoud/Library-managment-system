@@ -3,8 +3,10 @@ Library Management System – Project Plan
 
 1. Project Overview
  
- 	-The Library Management System is a Python-based application designed to manage books, authors, and readers while tracking borrowing activities and maintaining data integrity. 
-The system uses a modular structure with database handling, service logic, and core entity classes separated for clean architecture.
+    -The Library Management System is a Python-based application designed to manage:
+ 		Books, Authors, and Readers while tracking borrowing activities and maintaining data integrity. 
+     The system uses a modular structure:
+	  Database handling, Service logic, Core entity classes separated for clean architecture.
 
 2. Core Features
 
